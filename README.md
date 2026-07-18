@@ -105,5 +105,122 @@ This project addresses that challenge by converting raw retail sales data into a
 - [x] Support data-driven business decisions.
 ---
 
+## 🛠️ Tools & Technologies Used
+
+| Category | Technologies |
+|----------|--------------|
+| 📊 Business Intelligence | Microsoft Excel |
+| 📁 Data Source | BlinkIT Grocery Sales Dataset |
+| 📈 Dashboard Components | KPI Cards, Pivot Tables, Pivot Charts, Slicers |
+| 🔍 Analysis Techniques | Data Cleaning, Exploratory Data Analysis (EDA), Sales Analysis |
+| 🎨 Design Elements | Interactive Dashboard, Conditional Formatting, Dynamic Filters |
+
+---
+## 📊 Dashboard Features
+
+The dashboard provides an interactive analytical interface designed to help users monitor business performance through multiple dimensions of retail sales analysis.
+
+| Feature | Description |
+|---------|-------------|
+| 📌 KPI Cards | Displays key business metrics for quick performance evaluation. |
+| 🛒 Product Category Analysis | Compares sales across different product categories. |
+| 🥛 Fat Content Analysis | Evaluates customer purchasing patterns based on fat content. |
+| 🏪 Outlet Performance | Analyzes sales across different outlet locations, sizes, and types. |
+| 📈 Sales Trend Visualization | Highlights overall sales distribution and business performance. |
+| 🎛 Interactive Slicers | Enables dynamic filtering for efficient data exploration. |
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+The dashboard tracks essential business metrics that provide a comprehensive overview of BlinkIT's retail sales performance.
+
+| KPI | Purpose |
+|-----|---------|
+| 💰 Total Sales | Measures the overall revenue generated. |
+| 📦 Number of Items | Tracks the total products sold. |
+| ⭐ Average Rating | Evaluates customer satisfaction. |
+| 💵 Average Sales | Measures average revenue generated per transaction. |
+
+---
+
+## 🖼️ Dashboard Walkthrough
+
+The dashboard is designed to provide business users with a comprehensive overview of retail performance through intuitive and interactive visualizations.
+
+### Dashboard Highlights
+
+- 📊 Executive KPI Summary
+- 🏪 Outlet Performance Analysis
+- 🥛 Fat Content Comparison
+- 🛒 Product Category Analysis
+- 📈 Sales Distribution & Trends
+- 🎛 Interactive Slicers for Dynamic Exploration
+
+<p align="center">
+
+<img src="assets/dashboard-overview.png" width="95%" alt="BlinkIT Dashboard">
+
+</p>
+
+---
+## 👩‍💻 Author
+
+<table>
+<tr>
+<td width="70%">
+
+### Garima Sharma
+
+**Final-Year B.Tech Computer Science Engineering Student**
+
+📊 Aspiring Data Analyst | 📈 Business Intelligence Enthusiast | 🤖 AI & Machine Learning Learner
+
+Passionate about transforming raw data into meaningful insights through data analytics, interactive dashboards, and business intelligence solutions. Continuously building projects that combine analytical thinking, visualization, and real-world problem solving.
+
+📧 **Email:** garima140401@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/garima-sharma33
+
+🐙 **GitHub:**  
+https://github.com/garima140401
+
+</td>
+
+<td align="center">
+
+⭐ Always learning
+
+📊 Always analyzing
+
+🚀 Always building
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+### 🌟 If you found this project valuable, consider giving it a ⭐ on GitHub!
+
+</p>
+
+## 🤝 Let's Connect
+
+I'm always open to discussing:
+
+- 📊 Data Analytics Projects
+- 📈 Business Intelligence
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎓 Research Collaborations
+- 💼 Internship Opportunities
+
+Feel free to connect if you'd like to collaborate, exchange ideas, or discuss data-driven solutions.
+
+---
 
 
